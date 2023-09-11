@@ -1,16 +1,5 @@
-# waterdropnavbar
+# WaterDropNavBar By Cuberto
+[Cuberto](https://dribbble.com/cuberto)
 
-A new Flutter project.
+![image](https://github.com/GabrielMouraKT/WaterDropNavBar_DesignByCuberto/assets/69040085/af12deb4-f5d8-4528-980f-980d3e183be3)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
